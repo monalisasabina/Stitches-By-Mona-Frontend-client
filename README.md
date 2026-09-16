@@ -1,6 +1,7 @@
 # 🧶 Stitches by Mona – Crochet & Knitting Website 🧶
 
-This is the frontend client for **Stitches by Mona**, a crochet and knitting business by Monalisa Sabina.  
+This is the frontend client for **Stitches by Mona**, a crochet and knitting business.
+ 
 The site showcases handmade crochet and knit products, brand information, and will include interactive features like a chatbot to assist visitors.
 
 ---
